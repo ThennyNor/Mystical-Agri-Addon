@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SDS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "tag": "c:storage_blocks/prudentium_essence"
+    },
+    "S": {
+      "tag": "c:stones"
+    },
+    "D": {
+      "tag": "c:storage_blocks/prudentium_gemstone"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:prudentium_growth_accelerator",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mysticalagriculture:inferium_growth_accelerator"
+    },
+    "X": {
+      "tag": "mysticalagriculture:infusion_crystals"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:prudentium_growth_accelerator"
+  }
+}

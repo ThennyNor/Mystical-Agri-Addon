@@ -119,6 +119,8 @@ repositories {
 dependencies {
 implementation "curse.maven:mystical-agriculture-246640:6228700"
     implementation "curse.maven:cucumber-272335:6228644"
+    runtimeOnly "curse.maven:jei-238222:5846880"
+
 
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime

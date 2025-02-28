@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:imperium_growth_accelerator"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:tertium_growth_accelerator",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prudentium_growth_accelerator"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:inferium_growth_accelerator",
+    "count": 4
+  }
+}

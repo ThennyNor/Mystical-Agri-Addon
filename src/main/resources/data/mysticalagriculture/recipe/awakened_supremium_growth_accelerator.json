@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SDS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "tag": "c:storage_blocks/awakened_supremium_essence"
+    },
+    "S": {
+      "tag": "c:stones"
+    },
+    "D": {
+      "tag": "c:storage_blocks/awakened_supremium_gemstone"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:awakened_supremium_growth_accelerator",
+    "count": 3
+  }
+}

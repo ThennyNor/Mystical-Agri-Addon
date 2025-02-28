@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "%#%",
+    "#X#",
+    "%#%"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:storage_blocks/prosperity_shard"
+    },
+    "%": {
+      "tag": "c:storage_blocks/supremium_essence"
+    },
+    "X": {
+      "tag": "c:storage_blocks/supremium_gemstone"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:master_infusion_crystal"
+  }
+}

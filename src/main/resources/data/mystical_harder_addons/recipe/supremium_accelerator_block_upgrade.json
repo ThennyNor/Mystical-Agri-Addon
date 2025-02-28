@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mysticalagriculture:imperium_growth_accelerator"
+    },
+    "X": {
+      "tag": "mysticalagriculture:infusion_crystals"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:supremium_growth_accelerator"
+  }
+}
