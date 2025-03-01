@@ -1,4 +1,13 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "matc"
+      }
+    }
+  ],
   "type": "crafting_shaped",
   "pattern": [
     "%#%",

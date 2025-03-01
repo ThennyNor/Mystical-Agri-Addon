@@ -116,6 +116,7 @@ repositories {
         url "https://cursemaven.com"
     }
 }
+
 dependencies {
 implementation "curse.maven:mystical-agriculture-246640:6228700"
     implementation "curse.maven:cucumber-272335:6228644"
