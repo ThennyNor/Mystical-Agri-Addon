@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:storage_blocks/prosperity_shard"
+    },
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:prosperity_seed_base"
+  }
+}

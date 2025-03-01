@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "tag": "c:storage_blocks/prosperity_shard"
+    },
+    "G": {
+      "item": "matc:prudentium_crystal"
+    },
+    "P": {
+      "tag": "c:storage_blocks/tertium_essence"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "EGE",
+    "PEP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "matc:tertium_crystal"
+  }
+}

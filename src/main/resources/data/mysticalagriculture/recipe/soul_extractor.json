@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ISI",
+    "HBH",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "tag": "c:storage_blocks/iron"
+    },
+    "S": {
+      "item": "mysticalagriculture:soulium_ingot"
+    },
+    "H": {
+      "item": "mysticalagriculture:soulium_dagger"
+    },
+    "B": {
+      "item": "mysticalagriculture:machine_frame"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:soul_extractor"
+  }
+}

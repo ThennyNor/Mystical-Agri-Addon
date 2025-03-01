@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "tag": "c:storage_blocks/prosperity_shard"
+    },
+    "G": {
+      "item": "matc:imperium_crystal"
+    },
+    "P": {
+      "tag": "c:storage_blocks/supremium_essence"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "EGE",
+    "PEP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "matc:supremium_crystal"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "tag": "c:storage_blocks/prosperity_shard"
+    },
+    "G": {
+      "item": "mysticalagriculture:inferium_gemstone"
+    },
+    "P": {
+      "tag": "c:storage_blocks/inferium_essence"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "EGE",
+    "PEP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "matc:inferium_crystal"
+  }
+}

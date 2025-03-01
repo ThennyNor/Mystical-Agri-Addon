@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shapeless",
+  "group": "mysticalagriculture:farmland",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/inferium_essence"
+    },
+    {
+      "item": "minecraft:farmland"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:inferium_farmland",
+    "count": 1
+  }
+}

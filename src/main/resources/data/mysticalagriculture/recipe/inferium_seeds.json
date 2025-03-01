@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "transfer_components": true,
+  "pattern": [
+    "EYE",
+    "YSY",
+    "EYE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "Y": {
+      "tag": "c:storage_blocks/inferium_essence"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:inferium_seeds"
+  }
+}

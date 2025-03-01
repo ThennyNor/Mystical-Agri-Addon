@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "YSY",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "mysticalagriculture:soulstone"
+    },
+    "C": {
+      "item": "minecraft:orange_wool"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "Y": {
+      "tag": "c:rods/blaze"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:awakening_pedestal"
+  }
+}

@@ -120,6 +120,8 @@ dependencies {
 implementation "curse.maven:mystical-agriculture-246640:6228700"
     implementation "curse.maven:cucumber-272335:6228644"
     runtimeOnly "curse.maven:jei-238222:5846880"
+    runtimeOnly "curse.maven:mystical-agradditions-256247:6034061"
+    runtimeOnly "curse.maven:mystical-agriculture-tiered-crystals-299045:5863210"
 
 
     // Example optional mod dependency with JEI
